@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stud.IO</string>
+    <string name="please_scan_your_student_badge">Please scan your student badge.</string>
+    <string name="ok">OK</string>
+</resources>
